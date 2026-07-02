@@ -1,5 +1,5 @@
 # pv-test
-PeerVrity ratings test
+PeerVerity ratings test
 
 ## Features
 
